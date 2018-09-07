@@ -16,6 +16,9 @@ class HelloWorld_VC: UIViewController {
 
        print("Hello Motto")
         
+        print("Hello Apple")
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
