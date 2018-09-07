@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0460465521423D7A00F4318A /* HelloWorld_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0460465421423D7A00F4318A /* HelloWorld_VC.swift */; };
 		049CC95C214158DF0071E8B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CC95B214158DF0071E8B4 /* AppDelegate.swift */; };
 		049CC95E214158DF0071E8B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CC95D214158DF0071E8B4 /* ViewController.swift */; };
 		049CC961214158DF0071E8B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049CC95F214158DF0071E8B4 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0460465421423D7A00F4318A /* HelloWorld_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorld_VC.swift; sourceTree = "<group>"; };
 		049CC958214158DF0071E8B4 /* Swift_GitCommit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift_GitCommit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		049CC95B214158DF0071E8B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		049CC95D214158DF0071E8B4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				049CC95B214158DF0071E8B4 /* AppDelegate.swift */,
 				049CC95D214158DF0071E8B4 /* ViewController.swift */,
+				0460465421423D7A00F4318A /* HelloWorld_VC.swift */,
 				049CC95F214158DF0071E8B4 /* Main.storyboard */,
 				049CC962214158E30071E8B4 /* Assets.xcassets */,
 				049CC964214158E30071E8B4 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				049CC95E214158DF0071E8B4 /* ViewController.swift in Sources */,
 				049CC95C214158DF0071E8B4 /* AppDelegate.swift in Sources */,
+				0460465521423D7A00F4318A /* HelloWorld_VC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
